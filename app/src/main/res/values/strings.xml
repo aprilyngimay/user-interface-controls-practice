@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="tv_name">NAME</string>
+    <string name="et_name">Enter your name</string>
+    <string name="tv_phone">PHONE</string>
+    <string name="et_phone">Enter your phone number</string>
+    <string name="rb_female">FEMALE</string>
+    <string name="rb_male">MALE</string>
+    <string name="tv_gender">GENDER</string>
+    <string name="tv_hobbies">HOBBIES</string>
+    <string name="singing">Singing</string>
+    <string name="dancing">Dancing</string>
+    <string name="playing">Playing</string>
+    <string name="sleeping">Sleeping</string>
+    <string name="tv_course">COURSE</string>
+    <string name="bt_submit">SUBMIT</string>
+    <string name="dummy_text">dummy</string>
+
+    <string-array name="Course">
+        <item>BSCS</item>
+        <item>BSIT</item>
+        <item>BSCoE</item>
+    </string-array>
+</resources>
